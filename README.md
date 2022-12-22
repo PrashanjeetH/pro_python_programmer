@@ -1,12 +1,8 @@
 ## Hello-World
-My first Github Page, for my portfolio
+Github Page for my youtube channel @propythonprogrammer
 
 Used Custom domain feature from GitHub Page 
 
-_Hosted site_: [Prashanjeet.com](https://prashanjeet.com)
+_Hosted site_: [propythonprogrammer.com](https://propythonprogrammer.com)
 
-
-## Credits
-Big Thanks To [Giotsere](https://github.com/giotsere)
-
-# _Happy Coding :)_ :heart:
+# _Happy Coding :)_
